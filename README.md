@@ -11,7 +11,6 @@
 
 <a href="https://www.linkedin.com/in/bistraw/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   
-  <p align="rigt"> <img src="https://komarev.com/ghpvc/?username=bistraw&label=Profile%20views&color=0e75b6&style=flat" alt="bistraw" /> </p>
   
 
 
