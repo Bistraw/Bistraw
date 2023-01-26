@@ -1,12 +1,12 @@
 # Bistraw 
 #### Hey! I'm a Computer Science student with a deeply love to the Cinematic Arts and Videogames
 #### 
-
+<!--
 ## My Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=bistraw&theme=dark&show_icons=true">
 
-
+-->
 ### let's meet each other 
 
 <a href="https://www.linkedin.com/in/bistraw/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
