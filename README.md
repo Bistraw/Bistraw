@@ -7,11 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=bistraw&theme=dark&show_icons=true">
 
 -->
-### let's meet each other 
 
-<a href="https://www.linkedin.com/in/bistraw/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-  ####  
   
 <a href="https://www.buymeacoffee.com/bistraw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
   
