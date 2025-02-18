@@ -11,7 +11,6 @@ I am an Intelligent Computing Engineering student passionate about storytelling 
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/bistraw/)
-- [Portfolio](https://yourportfolio.com/)
 - 📧 bistraw.lm@gmail.com
 
 I'm always open to new opportunities and love collaborating on video games! ✨
