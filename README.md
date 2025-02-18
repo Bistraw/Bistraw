@@ -1,6 +1,25 @@
-# Bistraw 
-#### Hey! I'm a Computer Science student with a deeply love to the Cinematic Arts and Videogames
-#### 
+# 👋 Hi! I'm Leslie (or Bistraw online)
+
+I am an Intelligent Computing Engineering student passionate about storytelling and problem-solving. I specialize in programming, audiovisual creation, and game design.
+
+## About Me
+- Currently working as a **Quest Designer** at Equilibrium Games.
+- Game Design Intern at Amber Studio.
+- Won **3rd place in the International Air and Space Program** and a **youth award in my municipality**.
+- Participating in a **polymer research project to the ISS in 2025**, supported by Streger.
+- **Women in Games Ambassador**, also involved in leadership initiatives like The Climate Reality Challenge and Global Shapers.
+
+🎮 Unreal Engine
+- 👾 C++, Python, JavaScript
+- 🎨 Photoshop, Premiere Pro
+- 🌐 HTML, CSS, JS
+
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/bistraw/)
+- [Portfolio](https://yourportfolio.com/)
+- 📧 bistraw.lm@gmail.com
+
+I'm always open to new opportunities and love collaborating on video games! ✨
 <!--
 ## My Stats
 
@@ -8,9 +27,9 @@
 
 -->
 
-  
+  <!--
 <a href="https://www.buymeacoffee.com/bistraw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-  
+  -->
 
 
 <!--
