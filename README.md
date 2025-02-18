@@ -9,11 +9,6 @@ I am an Intelligent Computing Engineering student passionate about storytelling 
 - Participating in a **polymer research project to the ISS in 2025**, supported by Streger.
 - **Women in Games Ambassador**, also involved in leadership initiatives like The Climate Reality Challenge and Global Shapers.
 
-🎮 Unreal Engine
-- 👾 C++, Python, JavaScript
-- 🎨 Photoshop, Premiere Pro
-- 🌐 HTML, CSS, JS
-
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/bistraw/)
 - [Portfolio](https://yourportfolio.com/)
